@@ -1,6 +1,6 @@
 
 <p align="center">
-  
+  <img src="https://github.com/XxDrancerxX/XxDrancerxX/blob/main/banner-2.png?raw=true" />
 </p>
 
 

@@ -1,7 +1,8 @@
-<!-- Optional Banner -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XxDrancerxX/XxDrancerxX/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/XxDrancerxX/XxDrancerxX/blob/main/banner.png?raw=true" alt="Banner" width="100%" style="border-radius: 10px;" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Israel</h1>
 <h3 align="center">🚀 Full-Stack Developer | React • Python • Cloud • AI Enthusiast</h3>

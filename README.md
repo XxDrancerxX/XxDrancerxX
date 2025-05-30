@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on `Ballestas-website`
+- 🔭 I’m currently working on `Trading Operations Tracking`
 - 🌱 I’m learning **IBM Generative AI**, **Jest**, **Cloud**
 - 🛠️ Projects: [GitHub Portfolio](https://github.com/XxDrancerxX)
 - ✍️ I write on [LinkedIn](https://www.linkedin.com/in/israel-diaz-241915179/)

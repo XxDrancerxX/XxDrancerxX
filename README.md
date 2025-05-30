@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A passionate Full-Stack Developer eager for acknowledge and the learning.</h3>
+<img src="https://yourbannerlink.com/banner.png" alt="Banner" style="width:100%; border-radius:10px;">
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; border-radius: 10px;">
+  <h1>Hi 👋, I'm Israel</h1>
+  <p><b>A passionate Full-Stack Developer eager to learn and build cool things!</b></p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdrancerxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxdrancerxx" /> </p>
 

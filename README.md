@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">🚀 Full-Stack Developer | React • Python • Cloud • AI Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | React • Python • JavaScropt • AI Enthusiast</h3>
 
 ---
 
